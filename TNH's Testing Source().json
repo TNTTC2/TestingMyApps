@@ -1,5 +1,5 @@
 {
-  "name": "TNH's Testing Source(000a)",
+  "name": "TNH's Testing Source(000b)",
   "subtitle": "A testing source for me",
   "description": "Welcome to my testing source! Here you'll find all of my testing apps.",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
@@ -32,9 +32,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
-    }
+      }
   ],
   "news": []
 }
