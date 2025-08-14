@@ -4,6 +4,7 @@
   "description": "Welcome to my testing source! Here you'll find all of my testing apps.",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#ed732e",
   "featuredApps": [
     "com.9uq9xrvzpg.4b9dj8vkoq"
@@ -12,6 +13,7 @@
     {
       "name": "Screensaver",
       "bundleIdentifier": "com.9uq9xrvzpg.4b9dj8vkoq",
+      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -33,6 +35,9 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
+      },
+      "patreon": {}
     }
+  ],
   "news": []
 }
