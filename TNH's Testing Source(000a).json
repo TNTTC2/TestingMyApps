@@ -1,0 +1,43 @@
+{
+  "name": "TNH's Testing Source(000a)",
+  "subtitle": "A testing source for me",
+  "description": "Welcome to my testing source! Here you'll find all of my testing apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#ed732e",
+  "featuredApps": [
+    "com.9uq9xrvzpg.4b9dj8vkoq"
+  ],
+  "apps": [
+    {
+      "name": "Screensaver",
+      "bundleIdentifier": "com.9uq9xrvzpg.4b9dj8vkoq",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#ed732e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date": "2025-08-14T01:58:00+08:00",
+          "localizedDescription": null,
+          "downloadURL": "https://drive.google.com/uc?export=download&id=1Ahp94geOlNAs1yzBVDXZKtJhWGpdTolc",
+          "size": 330900000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
